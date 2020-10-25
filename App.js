@@ -1,12 +1,8 @@
 import React from "react";
-import { Text, View } from "react-native";
+import DisplayArticles from "./src/components/DisplayArticles";
 
 const App = () => {
-  return (
-    <View>
-      <Text>Welcome to El Gaucho nyheter</Text>
-    </View>
-  );
+  return <DisplayArticles />;
 };
 
 export default App;
