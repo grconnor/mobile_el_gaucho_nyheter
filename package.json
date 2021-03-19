@@ -30,7 +30,7 @@
   "devDependencies": {
     "@babel/core": "~7.9.0",
     "cypress": "^5.4.0",
-    "start-server-and-test": "^1.11.5"
+    "start-server-and-test": "^1.12.1"
   },
   "private": true
 }
