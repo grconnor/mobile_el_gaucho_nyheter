@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
-    "cypress": "^5.4.0",
+    "cypress": "^7.7.0",
     "start-server-and-test": "^1.11.5"
   },
   "private": true
